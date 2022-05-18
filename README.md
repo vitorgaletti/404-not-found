@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">404 Not Found</h1>
 
 <div align="center">
@@ -12,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/th3MXNJcvVvFlGXORifm">
       Solution
     </a>
     <span> | </span>
@@ -22,8 +20,6 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -31,8 +27,6 @@
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
-
-<!-- OVERVIEW -->
 
 ## Overview
 
